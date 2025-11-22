@@ -1,6 +1,6 @@
 # Team Coco
 
-## Team members
+## Team members: Emujin Batzorig 
 
 
 
@@ -21,7 +21,8 @@ Offer a brief analysis of the data with your findings. Keep it to one brief, cle
 
 ## Plot / Visualization
 
-Include at least one compelling plot or visualization of your work. Add images in your subdirectory and then display them using markdown in your README.md file.
+![Description](https://github.com/EmujinBat/wikipedia_analysis/blob/main/type_plot.png)
+
 
 ## GitHub Repository
 
